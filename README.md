@@ -72,3 +72,4 @@
 2. Якщо вийшло - встановіть Docker Desktop: https://www.docker.com/products/docker-desktop
 3. Якщо не вийшло - встановіть Docker Engine: https://docs.docker.com/engine/install/ubuntu/
 4. Поки досить Linux, можна відпочивати
+# 19.04
